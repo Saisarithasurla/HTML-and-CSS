@@ -10,13 +10,13 @@
 .flex-box {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
-    gap: 15px; 
+    justify-content:center;
+    gap: 30px; 
     margin-top: 30px;
 }
 
 .flex-item {
-    width: 15%; 
+    width: 10%; 
     box-shadow: 0 0 15px #00000028;
     border-radius: 20px;
     text-align: center;
@@ -32,7 +32,7 @@
 
 img {
     width: 100%;
-    height: 250px; /* adjust this based on actual image ratio */
+    height: 200px; /* adjust this based on actual image ratio */
     object-fit: contain; /* shows full image without cropping */
     border-radius: 10px;
 }
@@ -50,11 +50,11 @@ img {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 15px; 
+    gap: 30px; 
     margin-top: 30px;
 }
 .flex-item1{
-    width: 15%; 
+    width: 10%; 
     box-shadow: 0 0 15px #00000028;
     border-radius: 20px;
     text-align: center;
@@ -70,7 +70,7 @@ img {
 
 img {
     width: 100%;
-    height: 250px; 
+    height: 200px; 
     object-fit: contain; 
     border-radius: 15px;
 }
@@ -87,11 +87,11 @@ img {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 15px; 
+    gap: 30px; 
     margin-top: 30px;
 }
 .flex-item2{
-    width: 15%; 
+    width: 10%; 
     box-shadow: 0 0 15px #00000028;
     border-radius: 20px;
     text-align: center;
@@ -107,7 +107,7 @@ img {
 
 img {
     width: 100%;
-    height: 250px; 
+    height: 200px; 
     object-fit: contain; 
     border-radius: 15px;
 }
@@ -125,11 +125,11 @@ img {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 15px; 
+    gap: 30px; 
     margin-top: 30px;
 }
 .flex-item3{
-    width: 15%; 
+    width: 10%; 
     box-shadow: 0 0 15px #00000028;
     border-radius: 20px;
     text-align: center;
@@ -145,7 +145,7 @@ img {
 
 img {
     width: 100%;
-    height: 250px; 
+    height: 200px; 
     object-fit: contain; 
     border-radius: 15px;
 }
@@ -161,11 +161,11 @@ img {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 15px; 
+    gap: 30px; 
     margin-top: 30px;
 }
 .flex-item4{
-    width: 15%; 
+    width: 10%; 
     box-shadow: 0 0 15px #00000028;
     border-radius: 20px;
     text-align: center;
@@ -181,7 +181,12 @@ img {
 
 img {
     width: 100%;
-    height: 250px; 
+    height: 200px; 
     object-fit: contain; 
     border-radius: 15px;
 }
+
+
+
+
+
